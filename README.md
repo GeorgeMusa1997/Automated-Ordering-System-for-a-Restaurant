@@ -1,0 +1,2 @@
+# Automated-Ordering-System-for-a-Restaurant
+An automated ordering system for a restaurant is a modern way of ordering food into the restaurant that helps individuals obtain food by only application on the restaurant table tablet with less time and effort than the usual time-consuming technique of ordering them favourite food. using Flutter framework and Firebase (A powerful cloud platform by Google).
